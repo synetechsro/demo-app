@@ -12,8 +12,8 @@ Introduction application
 - simple interaction with ***UITableView***
 
 ##### Android
-- define *layout in XML*
-- use *RecyclerView*
+- define **layout in XML**
+- use ***RecyclerView****
 
 ### Provide Resources ###
 - **Design**

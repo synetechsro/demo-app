@@ -8,17 +8,17 @@ Introduction application
 - basic **API (REST)** interaction 
 
 ##### iOS
-- use autolayout
-- simple interaction with UITableView
+- use **autolayout**
+- simple interaction with ***UITableView***
 
 ##### Android
-- define views in XML
-- use RecyclerView
+- define *layout in XML*
+- use *RecyclerView*
 
 ### Provide Resources ###
-- Design
+- **Design**
 	* design of the application
-- Images
+- **Images**
 	* image resources for the application
 	
 ### Tasks ###

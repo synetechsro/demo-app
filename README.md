@@ -2,10 +2,10 @@ Introduction application
 ========================
  Demo
 ------
-- very simple *Swift 3.0 / Objective-C / Java / Kotlin* project
-- based on *architecture chosen by you*
-- add some *animations* (rotation, translation, ...)
-- basic *API (REST)* interaction 
+- very simple ***Swift 3.0 / Objective-C / Java / Kotlin*** project
+- based on **architecture chosen by you**
+- add some **animations** (rotation, translation, ...)
+- basic **API (REST)** interaction 
 
 ##### iOS
 - use autolayout

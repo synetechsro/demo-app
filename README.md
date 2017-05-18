@@ -13,7 +13,7 @@ Introduction application
 
 ##### Android
 - define **layout in XML**
-- use ***RecyclerView****
+- use ***RecyclerView***
 
 ### Provide Resources ###
 - **Design**
@@ -22,12 +22,13 @@ Introduction application
 	* image resources for the application
 	
 ### Tasks ###
-1. Design the first screen according to the *Android_list.png* or *iOS_list.png* image.
+1. Design the first screen according to the *Android_list.png* or *iOS_list.png* image (according to selected platform).
 	- layout screen according to the image
-	- design custom TableViewCell that will contain transaction image, description, type, amount and arrow
-	- "download" from API -> [http://stub.bbeight.synetech.cz/v1/customers](http://stub.bbeight.synetech.cz/v1/customers)
-	- convert transactions to some more useful custom model that you can use to fill in custom table view cells
-	- add custom table view cells to the table view
+	- design custom TableViewCell/ListItem that will contain transaction image, description, type, amount and arrow
+	- "download" data from API -> [http://stub.bbeight.synetech.cz/v1/customers](http://stub.bbeight.synetech.cz/v1/customers)
+	- convert transactions to some more useful custom model that you can use to fill in custom items in list
+	- (iOS only) add custom table view cells to the table view
+        - (Android only) add custom list items to the recycler view
 
 2. Design the transaction detail screen according to the other image.
 	- layout screen according to the image

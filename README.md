@@ -3,9 +3,9 @@ Introduction application
  Demo
 ------
 - very simple *Swift 3.0 / Objective-C / Java / Kotlin* project
-- based on architecture chosen by you
-- add some animations (rotation, translation, ...)
-- basic API (REST) interaction 
+- based on *architecture chosen by you*
+- add some *animations* (rotation, translation, ...)
+- basic *API (REST)* interaction 
 
 ##### iOS
 - use autolayout
@@ -13,9 +13,9 @@ Introduction application
 
 ##### Android
 - define views in XML
-- use recyclerView
+- use RecyclerView
 
-### Resources ###
+### Provide Resources ###
 - Design
 	* design of the application
 - Images

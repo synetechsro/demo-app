@@ -44,4 +44,4 @@ Introduction application
 
 1. **[OPTIONAL]** Add notifications to the application
 	- register for custom notification
-	- liking sends notification that shows pop up with text "You narcistic piece of shit."
+	- liking sends notification that shows pop up with text "You narcistic piece of sh**."

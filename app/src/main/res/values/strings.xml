@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Syntech demo app</string>
+    <string name="error">error</string>
+    <string name="retry">retry</string>
+
+    <string name="transactionItemAmount">$%.2f</string>
+
+    <string name="transactionDetailDescriptionString">Description : %s</string>
+    <string name="transactionDetailAmountString">Amount : %.2f</string>
+    <string name="transactionDetailDateString">Date : ¯\_(ツ)_/¯</string>
+</resources>
